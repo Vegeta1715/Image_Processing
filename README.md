@@ -1,1 +1,2 @@
 # Image_Processing
+This experiment consists of three steps. In first step, thermal images of transformer oil had been taken while cooling down in these particular time-stamps: 1min,2min,3min,4min,5mins,6min,11min. In second step, noises had been added in images using python with google colab. Noises includes Gaussian noise, salt and pepper noise and mixed noise. In next step, Autoencoder had been implemented to denoise the images obtained in second step. As output we got denoised image, which can be compared with the original image.
